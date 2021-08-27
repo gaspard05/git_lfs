@@ -45,7 +45,7 @@ namespace WebApplication1
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            //Comment jut for a test ttps://twitter.com/DonovanBrown/status/1431127062232903680/photo/1
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
